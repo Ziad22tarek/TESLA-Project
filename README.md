@@ -6,6 +6,8 @@ TESLA is an American electric vehicle and clean energy company.it's one of the m
   <li> Exploratory Data Analysis from 2016 untill now</li>
   <li> Modeling</li>
 </ul>
+
+
 ###  Data Collection
 <p> here i used web scraping to collect the data. i used <code>yfinance</code> library to extract the data</p>
 <p>I collected the following:</p>
