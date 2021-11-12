@@ -26,5 +26,4 @@ Here's some screenshots of what i got here
 
 #### Open and Close prices Comparsion
 
-[](https://github.com/Ziad22tarek/TESLA-Project/blob/main/Images/OpenCloseLine.PNG)
-
+<img src='https://github.com/Ziad22tarek/TESLA-Project/blob/main/Images/OpenCloseLine.PNG'>
