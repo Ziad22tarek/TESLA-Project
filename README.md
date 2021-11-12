@@ -1,6 +1,5 @@
 # TESLA-Project
-<p>TESLA is an American electric vehicle and clean energy company.it's one of the most fastest growing company</p>
-<p>In this prject i tried to forecast the closing prices of TESLA using ARIMA models</p>
+TESLA is an American electric vehicle and clean energy company.it's one of the most fastest growing company <br> In this prject i tried to forecast the closing prices of TESLA using ARIMA models
 ## This Project Consist of :
 <ul>
   <li> Data Collection </li>
