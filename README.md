@@ -24,6 +24,34 @@ TESLA is an American electric vehicle and clean energy company.it's one of the m
 ### Exploratory Data Analysis from 2016 untill now:
 Here's some screenshots of what i got here
 
-#### Open and Close prices Comparsion
+#### 1- Open and Close prices Comparsion
 
-<img src='https://github.com/Ziad22tarek/TESLA-Project/blob/main/Images/OpenCloseLine.PNG'>
+<img src='https://github.com/Ziad22tarek/TESLA-Project/blob/main/Images/OpenCloseLine.PN'>
+
+
+
+#### 2- High and low prices Comparsion
+
+<img src='https://github.com/Ziad22tarek/TESLA-Project/blob/main/Images/HighLowLine.PNG'>
+
+#### 3- Monthwise comparision between Stock open and close price
+
+<img src='https://github.com/Ziad22tarek/TESLA-Project/blob/main/Images/MonthwiseOpenClose.PNG'>
+
+
+#### 4- Monthwise comparision between Stock open and close price
+
+<img src='https://github.com/Ziad22tarek/TESLA-Project/blob/main/Images/MonthwiseHighLow.PNG'>
+
+
+
+### Modeling.
+ In this phase i tried to forecast the stock closing prices by fitting ARIMA model and here's the result i got
+ 
+ <img src='https://github.com/Ziad22tarek/TESLA-Project/blob/main/Images/Forecasting.PNG'>
+
+
+          
+          
+          
+         
