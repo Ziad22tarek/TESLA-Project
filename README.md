@@ -20,3 +20,11 @@ TESLA is an American electric vehicle and clean energy company.it's one of the m
   <li>Volume</li>
 </ul>
 
+
+### Exploratory Data Analysis from 2016 untill now:
+Here's some screenshots of what i got here
+
+#### Open and Close prices Comparsion
+
+[](https://github.com/Ziad22tarek/TESLA-Project/blob/main/Images/OpenCloseLine.PNG)
+
